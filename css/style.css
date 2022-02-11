@@ -180,7 +180,7 @@ html{
 
 /* start landing section  */
 .landing{
-  background-image: url(/imgs/landing-section.pnj.jpg);
+  background-image: url(https://images.unsplash.com/photo-1547823065-4cbbb2d4d185?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);
   background-size: cover;
   height: calc(100vh - 64px);
   position: relative;
